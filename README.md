@@ -18,12 +18,12 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![Screen Shot 2024-01-16 at 17 42 53](https://github.com/palmeiroerick/product-preview-card-component/assets/148393698/910b9f28-73bc-473e-84ad-cefd7b9093c3)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/palmeiroerick/product-preview-card-component)
+- [Live Site](https://product-preview-card-component-beige-six.vercel.app/)
 
 ## Built with
 
