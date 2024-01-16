@@ -10,6 +10,7 @@ const config: Config = {
     colors: {
       /* Primary */
       darkCyan: "#3c8067",
+      veryDarkCyan: "#1a4031",
       cream: "#f2ebe3",
 
       /* Neutral */
