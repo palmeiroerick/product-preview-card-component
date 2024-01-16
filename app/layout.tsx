@@ -10,7 +10,9 @@ export const metadata: Metadata = {
 const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html lang="en" className={`${montserrat.variable} ${fraunces.variable}`}>
-      <body>{children}</body>
+      <body className="flex h-screen w-screen items-center justify-center bg-cream">
+        {children}
+      </body>
     </html>
   );
 };
